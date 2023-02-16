@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Precious Diala - [Github](https://github.com/DialPressy) / [Twitter](https://twitter.com/PreciousDiala)  
-Mustapha Aliyu - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Mustapha Aliyu - [Github](https://github.com/MG-Musty) / [Twitter](https://twitter.com/earthtojhuang)
 
 Second part of Airbnb: Joann Vuong
 ## License
